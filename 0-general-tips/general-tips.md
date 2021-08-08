@@ -10,4 +10,4 @@ Dica 1 - Para cada **Error** ou bug que apareça no seu console/tela e você nã
 
 ### Mais dicas serão adicionadas no futuro <3
 
-Ir para: [1. Introdução](../2-introduction/0-what-is-ruby.md)
+Ir para: [1. Introdução](../1-introduction/1-what-is-ruby.md)
