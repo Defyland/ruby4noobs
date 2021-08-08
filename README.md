@@ -4,7 +4,7 @@
   <img src="./images/ruby_logo.png" alt="ruby" width="120">
 </h1>
 
-<p align="center">Tutorial de Ruby para iniciantes na linguagem.</p>
+<p align="center">Tutorial de ruby para iniciantes na linguagem.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
