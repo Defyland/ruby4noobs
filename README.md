@@ -14,9 +14,9 @@
 
 ## ROADMAP
 ## Introdução
-  1. [Dicas sobre o início dos estudos](./1-general-tips/general-tips.md)
+  0. [Dicas sobre o início dos estudos](./0-general-tips/general-tips.md)
 
-  2. [O que é Ruby? (Em construção)](/2-introduction/what-is-ruby.md)
+  1. [O que é Ruby? (Em construção)](/1-introduction/1-what-is-ruby.md)
 ### Configuração de ambiente
 
 ### Módulo Básico
