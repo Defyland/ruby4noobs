@@ -37,7 +37,7 @@ Contribuições fazem com que a comunidade open source seja um lugar incrível p
 
 ## Autor
 
-- **Allan Flávio (defyland)** - Software enginner
+- **Allan Flávio (defyland)**
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
